@@ -1,5 +1,6 @@
 
 public class Car extends Vehicle {
+	
 	private int speed;
 	private String color;
 	private String model;
@@ -23,4 +24,5 @@ public class Car extends Vehicle {
 	public String getColor(){
 		return color;
 	}
+	
 }
